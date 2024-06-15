@@ -1,13 +1,13 @@
-package com.wintersolidstudios.cloudvender;
+package com.wintersolidstudios.cloudvendor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CloudVenderApplication {
+public class CloudVendorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CloudVenderApplication.class, args);
+		SpringApplication.run(CloudVendorApplication.class, args);
 	}
 
 }

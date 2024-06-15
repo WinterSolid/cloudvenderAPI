@@ -1,5 +1,6 @@
-package com.wintersolidstudios.cloudvender.controller;
-import com.wintersolidstudios.cloudvender.service.CloudVendorService;
+package com.wintersolidstudios.cloudvendor.controller;
+import com.wintersolidstudios.cloudvendor.model.CloudVendor;
+import com.wintersolidstudios.cloudvendor.service.CloudVendorService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;

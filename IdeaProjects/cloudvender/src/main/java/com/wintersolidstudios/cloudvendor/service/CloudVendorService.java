@@ -1,4 +1,6 @@
-package com.wintersolidstudios.cloudvender.service;
+package com.wintersolidstudios.cloudvendor.service;
+
+import com.wintersolidstudios.cloudvendor.model.CloudVendor;
 
 import java.util.List;
 
