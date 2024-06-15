@@ -1,0 +1,39 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="cloudvender" />
+              <option name="systemId" value="MAVEN" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" value="1967704515" />
+                      <entry key="$PROJECT_DIR$/pom.xml" value="2522559498" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="74" />
+    <option name="indexTimeByRoot">
+      <map>
+        <entry key="$USER_HOME$" value="74" />
+      </map>
+    </option>
+  </component>
+</project>
