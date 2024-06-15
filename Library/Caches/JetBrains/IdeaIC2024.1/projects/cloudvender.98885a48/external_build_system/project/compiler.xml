@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="cloudvender" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
