@@ -107,6 +107,18 @@
       <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.7.0/classmate-1.7.0-sources.jar!/" />
     </SOURCES>
   </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.19.4" type="java-imported" __external-system-id="Maven">
+    <properties groupId="com.google.protobuf" artifactId="protobuf-java" version="3.19.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4-sources.jar!/" />
+    </SOURCES>
+  </library>
   <library name="Maven: com.jayway.jsonpath:json-path:2.9.0" type="java-imported" __external-system-id="Maven">
     <properties groupId="com.jayway.jsonpath" artifactId="json-path" version="2.9.0" />
     <CLASSES>
@@ -405,6 +417,30 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: javax.persistence:javax.persistence-api:2.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="javax.persistence" artifactId="javax.persistence-api" version="2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.29" type="java-imported" __external-system-id="Maven">
+    <properties groupId="mysql" artifactId="mysql-connector-java" version="8.0.29" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29-sources.jar!/" />
     </SOURCES>
   </library>
   <library name="Maven: net.bytebuddy:byte-buddy-agent:1.14.16" type="java-imported" __external-system-id="Maven">
