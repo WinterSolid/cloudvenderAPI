@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    #REQ : DB : IP/HostName: Port Id /{Scheme Name}? Any Certificate
+    url: jdbc:mysql://localhost:3306/cloud_vendor?useSSL=false # Database URL
+    username: root  # Database username
+    password: your_password  # Database password
+
+# JPA settings
+jpa:
+  hibernate:
+    ddl-auto: update  # Automatically update the schema
+  show-sql: true  # Show SQL queries in the log
+  properties:
+    hibernate:
+      dialect: org.hibernate.dialect.MySQL5Dialect  # MySQL's dialect for Hibernate
