@@ -491,6 +491,18 @@
       <root url="jar://$MAVEN_REPOSITORY$/net/minidev/json-smart/2.5.1/json-smart-2.5.1-sources.jar!/" />
     </SOURCES>
   </library>
+  <library name="Maven: org.antlr:antlr4-runtime:4.13.0" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.antlr" artifactId="antlr4-runtime" version="4.13.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
   <library name="Maven: org.apache.logging.log4j:log4j-api:2.23.1" type="java-imported" __external-system-id="Maven">
     <properties groupId="org.apache.logging.log4j" artifactId="log4j-api" version="2.23.1" />
     <CLASSES>
@@ -899,6 +911,30 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/3.3.0/spring-boot-3.3.0-sources.jar!/" />
     </SOURCES>
   </library>
+  <library name="Maven: org.springframework.data:spring-data-commons:3.3.0" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.springframework.data" artifactId="spring-data-commons" version="3.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/3.3.0/spring-data-commons-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/3.3.0/spring-data-commons-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/3.3.0/spring-data-commons-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-jpa:3.3.1" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.springframework.data" artifactId="spring-data-jpa" version="3.3.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/3.3.1/spring-data-jpa-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/3.3.1/spring-data-jpa-3.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/3.3.1/spring-data-jpa-3.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
   <library name="Maven: org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE" type="java-imported" __external-system-id="Maven">
     <properties groupId="org.springframework.plugin" artifactId="spring-plugin-core" version="2.0.0.RELEASE" />
     <CLASSES>
@@ -995,6 +1031,30 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/6.1.8/spring-jcl-6.1.8-sources.jar!/" />
     </SOURCES>
   </library>
+  <library name="Maven: org.springframework:spring-jdbc:6.1.8" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.springframework" artifactId="spring-jdbc" version="6.1.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/6.1.8/spring-jdbc-6.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/6.1.8/spring-jdbc-6.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/6.1.8/spring-jdbc-6.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.springframework:spring-orm:6.1.8" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.springframework" artifactId="spring-orm" version="6.1.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/6.1.8/spring-orm-6.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/6.1.8/spring-orm-6.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/6.1.8/spring-orm-6.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
   <library name="Maven: org.springframework:spring-test:6.1.8" type="java-imported" __external-system-id="Maven">
     <properties groupId="org.springframework" artifactId="spring-test" version="6.1.8" />
     <CLASSES>
@@ -1005,6 +1065,18 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/6.1.8/spring-test-6.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.springframework:spring-tx:6.1.8" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.springframework" artifactId="spring-tx" version="6.1.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/6.1.8/spring-tx-6.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/6.1.8/spring-tx-6.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/6.1.8/spring-tx-6.1.8-sources.jar!/" />
     </SOURCES>
   </library>
   <library name="Maven: org.springframework:spring-web:6.1.8" type="java-imported" __external-system-id="Maven">
