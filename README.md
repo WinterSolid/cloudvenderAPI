@@ -1,6 +1,6 @@
 # CloudVenderAPI
 
-##Developed a robust and scalable RESTful API using Java and Spring Boot, integrating MySQL for data persistence. Ensured comprehensive testing and validation of API endpoints using Postman, and performed database management and queries using MySQL Workbench.
+## Developed a robust and scalable RESTful API using Java and Spring Boot, integrating MySQL for data persistence. Ensured comprehensive testing and validation of API endpoints using Postman, and performed database management and queries using MySQL Workbench.
 Setting Up the Project
 
 <img width="375" alt="CloudVender-Wintersolid" src="https://github.com/WinterSolid/cloudvenderAPI/assets/58896705/9543654e-28b5-4e5a-8e81-c36192b3c30a">
