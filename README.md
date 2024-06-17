@@ -15,9 +15,14 @@ Java Development Kit (JDK) 8 or higher
 ## 1. Create a New Spring Boot Project
 Use Spring Initializr to generate a new Spring Boot project with the following dependencies:
 
-Spring Web
-Spring Data JPA
-MySQL Driver
+- Spring Web
+- Spring Data JPA
+
+- MySQL Driver
 
 ## 2. Configure MySQL Database
-Update application.properties file in src/main/resources directory:
+- Update application.properties or create a application.Yaml file in src/main/resources directory:
+-  Using MySQL workbench to create DB, Table.
+-  For mySQL syntax examples:
+- - https://www.w3schools.com/mysql/mysql_create_table.asp
+<img width="984" alt="DBSetup" src="https://github.com/WinterSolid/cloudvenderAPI/assets/58896705/7253284b-3026-4e94-ae62-b0c12afe2361">
