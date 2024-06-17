@@ -15,9 +15,9 @@ Java Development Kit (JDK) 8 or higher
 ## 1. Create a New Spring Boot Project
 Use Spring Initializr to generate a new Spring Boot project with the following dependencies:
 
-Spring Web
-Spring Data JPA
-MySQL Driver
+- Spring Web
+- Spring Data JPA
+- MySQL Driver
 
 ## 2. Configure MySQL Database
 Update application.properties file in src/main/resources directory:
