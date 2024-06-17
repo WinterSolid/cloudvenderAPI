@@ -1,0 +1,9 @@
+DATABASE cloud_vendor;
+CREATE TABLE cloud_vendor_info
+(
+vendorId varchar(255),
+vendorName varchar(255),
+vendorAddress varchar(255),
+vendorPhoneNumber varchar(255)
+);
+INSERT INTO cloud_vendor.cloud_vendor_info(vendorId, vendorName,vendorAddress,vendorPhoneNumber) VALUES('vendorId', 'vendorName','vendorAddress','vendorPhoneNumber');
