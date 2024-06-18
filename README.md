@@ -29,7 +29,7 @@ Developed a robust and scalable RESTful API using Java and Spring Boot, integrat
 
 Ensure you have the following installed on your machine:
 
-Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 8 or higher
 - Apache Maven
 - MySQL Server and MySQL Workbench
 - Postman
