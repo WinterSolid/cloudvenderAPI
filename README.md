@@ -12,7 +12,7 @@ Developed a robust and scalable RESTful API using Java and Spring Boot, integrat
 - Postman
 - MySQL Workbench
   
-## project Summary:
+## Summary:
 
 - Designed and implemented RESTful API endpoints for CRUD operations on entities.
 - Configured Spring Data JPA to interact with a MySQL database for data persistence.
