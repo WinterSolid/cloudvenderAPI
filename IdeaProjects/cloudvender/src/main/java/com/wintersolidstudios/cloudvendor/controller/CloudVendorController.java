@@ -15,7 +15,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/cloudvendor")
-@Api(value = "CloudVendor Management System", description = "Operations pertaining to Cloud Vendor in CloudVendor Management System")
+@Api(value = "CloudVendor Management System")
 public class CloudVendorController {
 
     @Autowired
@@ -53,7 +53,7 @@ public class CloudVendorController {
     @PostMapping("/")
     @ApiOperation(value = "Create a new cloud vendor")
     public String createCloudVendorDetails(
-            @ApiParam(value = "Cloud Vendor object to be created", required = true) @Valid @RequestBody CloudVendor cloudVendor) {
+            @ApiParam(value = "Cloud Vendor object to be created", required = true) @RequestBody CloudVendor cloudVendor) {
         cloudVendorService.createCloudVendor(cloudVendor);
         return "Cloud Vendor Created Successfully";
     }
@@ -64,7 +64,7 @@ public class CloudVendorController {
     @PutMapping("/")
     @ApiOperation(value = "Update an existing cloud vendor")
     public String updateCloudVendorDetails(
-            @ApiParam(value = "Cloud Vendor object with updated details", required = true) @Valid @RequestBody CloudVendor cloudVendor) {
+            @ApiParam(value = "Cloud Vendor object with updated details", required = true) @RequestBody CloudVendor cloudVendor) {
         cloudVendorService.updateCloudVendor(cloudVendor);
         return "Cloud Vendor Updated Successfully";
     }
