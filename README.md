@@ -44,6 +44,13 @@ Use Spring Initializr to generate a new Spring Boot project with the following d
 
 ## 2. Configure MySQL Database
 - Update application.properties or create a application.Yaml file in src/main/resources directory:
+- - application.properties
+<img width="676" alt="Screenshot 2024-06-20 at 12 20 51 PM" src="https://github.com/WinterSolid/cloudvenderAPI/assets/58896705/c1dbd1b9-4d31-40a4-8fee-919819e9aee1">
+ 
+- - application.Yaml  <-- Chose this option for readability
+<img width="562" alt="Screenshot 2024-06-20 at 12 21 14 PM" src="https://github.com/WinterSolid/cloudvenderAPI/assets/58896705/daa97ad3-5583-4b42-b21c-818c27dbdc4f">
+
+  
 -  Using MySQL workbench to create DB, Table. 
 -  For mySQL syntax examples:
 - - https://www.w3schools.com/mysql/mysql_create_table.asp
